@@ -10,4 +10,5 @@ El propósito de este ejercicio es solamente probar el mecanismo de Github class
 Implementar los algoritmos de ordenamiento vistos en clase en Python para comparar su desempeño en cuanto a tiempo de ejecución y número de comparaciones. Los detalles de la tarea se encuentran en el documento
 
 Fecha de entrega: 21 de febrero 2011
-Liga de entrega: 
+
+Liga de entrega: https://classroom.github.com/a/nLAENpV9
