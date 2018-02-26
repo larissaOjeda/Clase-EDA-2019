@@ -12,3 +12,11 @@ Implementar los algoritmos de ordenamiento vistos en clase en Python para compar
 Fecha de entrega: 21 de febrero 2018
 
 Liga de entrega: https://classroom.github.com/a/nLAENpV9
+
+2. Asignación 26 de febrero.
+
+Implementar árboles AVL en Python. Insertar, borrar y buscar.
+
+Fecha de entrega: 12 de marzo 2018 (Github y clase)
+
+Liga de entrega: https://classroom.github.com/a/TE7noK9S
