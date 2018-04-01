@@ -9,14 +9,26 @@ El propósito de este ejercicio es solamente probar el mecanismo de Github class
 1. Tarea 1. Asignación 9 de febrero
 Implementar los algoritmos de ordenamiento vistos en clase en Python para comparar su desempeño en cuanto a tiempo de ejecución y número de comparaciones. Los detalles de la tarea se encuentran en el documento
 
-Fecha de entrega: 21 de febrero 2018
+  Fecha de entrega: 21 de febrero 2018
 
-Liga de entrega: https://classroom.github.com/a/nLAENpV9
+  Liga de entrega: https://classroom.github.com/a/nLAENpV9
 
-2. Asignación 26 de febrero.
+2. Tarea 2 AVL
 
-Implementar árboles AVL en Python. Insertar, borrar y buscar.
+  Asignación 26 de febrero.
 
-Fecha de entrega: 12 de marzo 2018 (Github y clase)
+  Implementar árboles AVL en Python. Insertar, borrar y buscar.
 
-Liga de entrega: https://classroom.github.com/a/TE7noK9S
+  Fecha de entrega: 12 de marzo 2018 (Github y clase)
+
+  Liga de entrega: https://classroom.github.com/a/TE7noK9S
+
+3. Tarea 3. B+
+
+  Investigar características y uso de árboles B+.Asignación 1 de abril
+
+  El trabajo puede ser en equipo, sin embargo, cada miembro del equipo debe de aceptar la tarea y subir el documento en su repositorio.
+
+  Fecha de entrega 7 de abril
+
+  Liga de entrega: https://classroom.github.com/a/262NgXCW
