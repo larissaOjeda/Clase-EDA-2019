@@ -32,3 +32,11 @@ Implementar los algoritmos de ordenamiento vistos en clase en Python para compar
   Fecha de entrega 7 de abril
 
   Liga de entrega: https://classroom.github.com/a/262NgXCW
+
+4. Tarea 4. Skip list
+
+  Fecha de entrega: 30 de abril 2018
+
+  Implementar la estructura de datos Skip List con las operaciones de inserción, borrado y búsqueda (detalles en el documento descriptivo (.pdf))
+
+  Liga de entrega: https://classroom.github.com/a/YwIqzVoH
