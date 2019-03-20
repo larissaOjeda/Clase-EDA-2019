@@ -16,3 +16,13 @@
 
     En esta tarea comparará empíricamente el despempeño de varios algoritmos de ordenamiento. Siga las indicaciones del archivo TareaSort.pdf.
     Entregue la tarea via Github en https://classroom.github.com/a/hvo0Eyw3
+
+2. Tarea 2:  AVL
+
+    Asignación: 20 de marzo
+
+    Entrega: 3 de abril
+
+    En esta tarea implementará la estructura de datos AVL. El desempeño de su implementación se revisará en clase. Siga las indicaciones del archivo TareaAVL.pdf.
+
+    Entregue la tarea via Github en https://classroom.github.com/a/uVmK_9Qf
