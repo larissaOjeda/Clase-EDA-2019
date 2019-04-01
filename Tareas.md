@@ -26,3 +26,14 @@
     En esta tarea implementará la estructura de datos AVL. El desempeño de su implementación se revisará en clase. Siga las indicaciones del archivo TareaAVL.pdf.
 
     Entregue la tarea via Github en https://classroom.github.com/a/uVmK_9Qf
+
+3. Tarea 3: Árboles B+
+
+    Asignación: 1 de abril
+
+    Entrega: 12 de abril
+
+    Esta es una tarea en equipo (2 personas por equipo) de investigación. Las indicaciones se encuentran en el archivo TareaB+.pdf.
+
+    Entregue la tarea, un documento .pdf, en Github:
+    https://classroom.github.com/a/GVB1dQp9
